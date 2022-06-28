@@ -1,0 +1,1 @@
+# moosesoft-azure-cosmos-extensions
